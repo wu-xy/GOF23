@@ -2,6 +2,7 @@ package com.wzx.bridge;
 
 /**
  * 桥接模式
+ * 取消多层继承结构
  * @author Administrator
  *
  */
