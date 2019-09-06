@@ -1,8 +1,9 @@
 package com.wzx.prototype;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class Sheep implements Cloneable {
+public class Sheep implements Cloneable,Serializable {
 	String name;
 	Date birthday;
 	public String getName() {
